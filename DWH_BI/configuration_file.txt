@@ -1,0 +1,8 @@
+C:\Users\zenazhang\PycharmProjects\pythonProject2\DWH_BI_Data\;
+C:\Users\zenazhang\PycharmProjects\pythonProject2\DWH_BI_Configure\Task.sql;
+C:\Users\zenazhang\PycharmProjects\pythonProject2\DWH_BI_Configure\email_file.txt;
+Trend_Week, Trend_Month, Time_Fluctuation, Volume_Fluctuation, Time_cnsumption_top10, Volume_top10, Error_week, Error_all;
+C:\Users\zenazhang\PycharmProjects\pythonProject2\DWH_BI_Configure\package_name.xlsx;
+C:\Users\zenazhang\PycharmProjects\pythonProject2\DWH_BI_View\;
+C:\Users\zenazhang\PycharmProjects\pythonProject2\DWH_BI_View\every_view\;
+every_view\
